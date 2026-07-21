@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cabinet-handy-counters-shirts.trycloudflare.com/vnc.html
+URL       : https://empirical-hist-style-devices.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-20 21:14:44
+Created   : 2026-07-21 02:40:47
 =======================================================
